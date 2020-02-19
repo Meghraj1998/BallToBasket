@@ -1,0 +1,53 @@
+.ballContainer{
+
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: auto;
+    border: 1px solid green;
+    overflow: scroll;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+
+   
+
+    
+
+}
+
+#one{
+ 
+     width:140px;
+     height:120px;
+     border:1px solid red;
+       border-radius: 50%;
+     text-align: center;
+      margin: 4px;
+
+      background-color: green;
+
+      
+
+
+
+
+ }
+
+ button{
+
+
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 20px;
+     font-size: x-large;
+     
+
+
+ }
+
+ #btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
